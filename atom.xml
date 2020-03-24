@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://5laali.github.io/"/>
-  <updated>2020-03-24T00:21:16.152Z</updated>
+  <updated>2020-03-24T00:36:27.915Z</updated>
   <id>https://5laali.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试</title>
+    <link href="https://5laali.github.io/2020/03/24/%E6%B5%8B%E8%AF%95/"/>
+    <id>https://5laali.github.io/2020/03/24/%E6%B5%8B%E8%AF%95/</id>
+    <published>2020-03-24T00:35:20.000Z</published>
+    <updated>2020-03-24T00:36:27.915Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h1><p>$4P+5O_2\xlongequal{点燃}2P_2O_5$</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;测试&quot;&gt;&lt;a href=&quot;#测试&quot; class=&quot;headerlink&quot; title=&quot;测试&quot;&gt;&lt;/a&gt;测试&lt;/h1&gt;&lt;p&gt;$4P+5O_2\xlongequal{点燃}2P_2O_5$&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>写在前面</title>
