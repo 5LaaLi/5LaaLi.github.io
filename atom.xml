@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://5laali.github.io/"/>
-  <updated>2020-03-24T02:47:38.411Z</updated>
+  <updated>2020-03-24T05:59:17.425Z</updated>
   <id>https://5laali.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试tag</title>
+    <link href="https://5laali.github.io/2020/03/24/%E6%B5%8B%E8%AF%95tag/"/>
+    <id>https://5laali.github.io/2020/03/24/%E6%B5%8B%E8%AF%95tag/</id>
+    <published>2020-03-24T05:58:18.000Z</published>
+    <updated>2020-03-24T05:59:17.425Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="测试"><a class="markdownIt-Anchor" href="#测试"></a> 测试</h1><h2 id="测试-2"><a class="markdownIt-Anchor" href="#测试-2"></a> 测试</h2><h3 id="测试-3"><a class="markdownIt-Anchor" href="#测试-3"></a> 测试</h3><h4 id="测试-4"><a class="markdownIt-Anchor" href="#测试-4"></a> 测试</h4><h5 id="测试-5"><a class="markdownIt-Anchor" href="#测试-5"></a> 测试</h5><h6 id="测试-6"><a class="markdownIt-Anchor" href="#测试-6"></a> 测试</h6>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;测试&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#测试&quot;&gt;&lt;/a&gt; 测试&lt;/h1&gt;
+&lt;h2 id=&quot;测试-2&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#测试-2&quot;&gt;&lt;/a&gt; 测试&lt;/h2&gt;
+&lt;h3 id
+      
+    
+    </summary>
+    
+    
+      <category term="very" scheme="https://5laali.github.io/categories/very/"/>
+    
+    
+      <category term="好" scheme="https://5laali.github.io/tags/%E5%A5%BD/"/>
+    
+  </entry>
   
   <entry>
     <title>dd</title>
