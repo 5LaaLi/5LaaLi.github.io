@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://5laali.github.io/"/>
   <updated>2020-03-24T00:21:16.152Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://5laali.github.io/</id>
   
   <author>
     <name>5LaaLi</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>写在前面</title>
-    <link href="http://yoursite.com/2020/03/23/%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2/"/>
-    <id>http://yoursite.com/2020/03/23/%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2/</id>
+    <link href="https://5laali.github.io/2020/03/23/%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2/"/>
+    <id>https://5laali.github.io/2020/03/23/%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2/</id>
     <published>2020-03-23T14:36:52.000Z</published>
     <updated>2020-03-24T00:21:16.152Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/03/23/hello-world/"/>
-    <id>http://yoursite.com/2020/03/23/hello-world/</id>
+    <link href="https://5laali.github.io/2020/03/23/hello-world/"/>
+    <id>https://5laali.github.io/2020/03/23/hello-world/</id>
     <published>2020-03-23T14:34:35.695Z</published>
     <updated>2020-03-23T14:34:35.695Z</updated>
     
