@@ -27,7 +27,7 @@
 <p>Ctrl + / 添加关闭行注释</p>
 <p>Shift + Alt +A 块区域注释</p>
 <p>Alt + Z 添加关闭词汇包含</p>
-<h5 id="导航快捷键"><a class="markdownIt-Anchor" href="#导航快捷键"></a> 导航快捷键</h5>
+<h3 id="导航快捷键"><a class="markdownIt-Anchor" href="#导航快捷键"></a> 导航快捷键</h3>
 <p>Ctrl + T 列出所有符号</p>
 <p>Ctrl + G 跳转行</p>
 <p>Ctrl + P 跳转文件</p>
@@ -43,7 +43,7 @@
 <p>F3 / Shift + F3 查询下一个/上一个</p>
 <p>Alt + Enter 选中所有出现在查询中的</p>
 <p>Ctrl + D 匹配当前选中的词汇或者行，再次选中-可操作</p>
-<h5 id="多行光标快捷键"><a class="markdownIt-Anchor" href="#多行光标快捷键"></a> 多行光标快捷键</h5>
+<h3 id="多行光标快捷键"><a class="markdownIt-Anchor" href="#多行光标快捷键"></a> 多行光标快捷键</h3>
 <p>Alt + Click 插入光标-支持多个</p>
 <p>Ctrl + Alt + up/down 上下插入光标-支持多个</p>
 <p>Ctrl + U 撤销最后一次光标操作</p>
@@ -65,12 +65,12 @@
 <p>Shift + F12 显示所有引用</p>
 <p>F2 重命名符号</p>
 <p>Ctrl + Shift + . / , 替换下个值</p>
-<h5 id="编辑器管理快捷键"><a class="markdownIt-Anchor" href="#编辑器管理快捷键"></a> 编辑器管理快捷键</h5>
+<h3 id="编辑器管理快捷键"><a class="markdownIt-Anchor" href="#编辑器管理快捷键"></a> 编辑器管理快捷键</h3>
 <p>Ctrl + F4, Ctrl + W 关闭编辑器</p>
 <p>Ctrl + |切割编辑窗口</p>
 <p>Ctrl + 1/2/3 切换焦点在不同的切割窗口</p>
 <p>Ctrl + Shift + PgUp/PgDown 切换标签页的位置</p>
-<h5 id="文件管理快捷键"><a class="markdownIt-Anchor" href="#文件管理快捷键"></a> 文件管理快捷键</h5>
+<h3 id="文件管理快捷键"><a class="markdownIt-Anchor" href="#文件管理快捷键"></a> 文件管理快捷键</h3>
 <p>Ctrl + N 新建文件</p>
 <p>Ctrl + O 打开文件</p>
 <p>Ctrl + S 保存文件</p>
@@ -96,12 +96,12 @@
 <p>Ctrl + Shift + J 开启详细查询</p>
 <p>Ctrl + Shift + V 预览Markdown文件【编译后】</p>
 <p>Ctrl + K v 在边栏打开渲染后的视图【新建】</p>
-<h5 id="调试快捷键"><a class="markdownIt-Anchor" href="#调试快捷键"></a> 调试快捷键</h5>
+<h3 id="调试快捷键"><a class="markdownIt-Anchor" href="#调试快捷键"></a> 调试快捷键</h3>
 <p>F9 添加解除断点</p>
 <p>F5 启动调试、继续</p>
 <p>F11 / Shift + F11 单步进入 / 单步跳出</p>
 <p>F10 单步跳过</p>
-<h5 id="集成终端快捷键"><a class="markdownIt-Anchor" href="#集成终端快捷键"></a> 集成终端快捷键</h5>
+<h3 id="集成终端快捷键"><a class="markdownIt-Anchor" href="#集成终端快捷键"></a> 集成终端快捷键</h3>
 <p>Ctrl + ` 打开集成终端</p>
 <p>Ctrl + Shift + ` 创建一个新的终端</p>
 <p>Ctrl + C 复制所选</p>
