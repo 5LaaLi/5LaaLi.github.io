@@ -84,7 +84,7 @@
 <p>Ctrl + Tab 与上面一致，顺序不一致</p>
 <p>Ctrl + P 复制当前打开文件的存放路径</p>
 <p>Ctrl + R 打开当前编辑文件存放位置【文件管理器】</p>
-<h5 id="显示快捷键"><a class="markdownIt-Anchor" href="#显示快捷键"></a> 显示快捷键</h5>
+<h3 id="显示快捷键"><a class="markdownIt-Anchor" href="#显示快捷键"></a> 显示快捷键</h3>
 <p>F11 切换全屏模式</p>
 <p>Ctrl + =/- 放大 / 缩小</p>
 <p>Ctrl + B 侧边栏显示隐藏</p>
